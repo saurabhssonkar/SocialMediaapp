@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="edit" />
+    <drawable name="name" />
+    <drawable name="ic_email" />
+    <drawable name="password" />
+    <drawable name="buttonss" />
+    <drawable name="background_color" />
+    <drawable name="ic_unblock" />
+    <drawable name="bg_receiver" />
+    <drawable name="bg_sender" />
+    <drawable name="ic_iattach" />
+    <drawable name="send_message" />
+</resources>

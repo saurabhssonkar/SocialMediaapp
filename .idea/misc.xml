@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/background_color.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/buttonss.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/edit.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_account.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_chat.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_comment.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_edit_white.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_email.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_images.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_like.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_liked.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_more.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/ic_users.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/name.xml" value="0.1085" />
+        <entry key="app/src/main/res/drawable/password.xml" value="0.1085" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/activity_edit_profile_page.xml" value="0.13958333333333334" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_post_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_post_liked.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.14583333333333334" />
+        <entry key="app/src/main/res/layout/dialog_update_password.xml" value="0.13958333333333334" />
+        <entry key="app/src/main/res/layout/fragment_add_blogs.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_chatlist.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/fragment_users.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/raw_chat_left.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/raw_chat_right.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/row_chatlist.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/row_comments.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_posts.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_users.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/my_menu.xml" value="0.1640625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
